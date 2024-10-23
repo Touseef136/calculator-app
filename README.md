@@ -1,3 +1,16 @@
+<< PROJECT DESCRIPTION >>
+
+This project is a user-friendly calculator application built using Visual Studio.
+The calculator provides essential arithmetic operaations such as additon, subtractin, multiplication, and division.
+It features a clean, intuitive interface designed for easy interation. Developed in C# (or specify the programming language), the project demonstrates fundamental concepts of UI design and programming logic, making it an excellent tool for both personal use educaltional purposes.
+<< User interface (UI)
+
+. OPERATOR BUTTONS: Buttons for basic arithmetic operations like additon (+), subtraction (-), multiplication (*), and division (/).
+
+.DISPLAY AREA: A text for box or label to show input numbers, intermediate results, and the final result.
+
+.OTHER BUTTONS: These include the "equal" (=) button to compute the result and "Clear" (C) to reset the calculator.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
